@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zoefleischer
 - 👀 I’m interested in Biohacking, Artificial Intelligence, DeFi, Cryptocurrency and Blockchain.
 - 🌱 I’m currently learning about Flash Loans, Django, invasive Neurohacking.
-- 💞️ I’m looking to collaborate on revolutionary and cutting-edge projects with a mission of furthering human evolution.
+- 💞️ I’m looking to collaborate on cutting-edge projects that aim to improve society.
 - 📫 How to reach me: zoe.z.fleischer@gmail.com
 
 <!---
