@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zoefleischer
-- 👀 Passionate about Blockcahin,Biohacking and Artificial Intelligence.
+- 👀 Passionate about Blockchain, Biohacking/Logenvity and Artificial Intelligence.
 - 🌱 I’m currently learning about Solidity and Web3 Product Management.
 - 💞️ I’m looking to collaborate on cutting-edge projects that aim to improve society.
 - 📫 How to reach me: zoe.z.fleischer@gmail.com
